@@ -4,9 +4,10 @@ Welcome to my CodeChef daily practice repository! 🚀 Here, I will be solving C
 
 ## Solved Problems
 
-| # | Problem Name    | Solution                                       |
-|---|---------------|------------------------------------------------|
-| 1 | Subscriptions | [Solution](<Solutions/Difficulty 504/READme.md>) |
+| # | Problem Name    | Solution                                         |
+|---|-----------------|--------------------------------------------------|
+| 1 | Subscriptions   | [Solution](<Solutions/Difficulty 504/READme.md>) |
+| 2 | Greater Average | [Solution](<Solutions/Difficulty 500/READme.md>) |
 
 ## How This Works
 - Each problem I solve will be added to the `Solutions` directory with a detailed explanation and solution.

@@ -28,7 +28,7 @@ You may print each character of the string in uppercase or lowercase (for exampl
 - 1 ≤ T ≤ 1000
 - 1 ≤ A, B, C ≤ 10
 
-### [Solution](./goodAverage.java)
+### [Solution](./greaterAverage.java)
 
 
 ### Example

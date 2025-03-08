@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class goodAverage
+class greaterAverage
 {
     public static void main (String[] args) throws java.lang.Exception
     {
