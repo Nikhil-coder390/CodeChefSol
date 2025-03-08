@@ -14,7 +14,7 @@ A group of ```N``` friends in Chefland want to buy Chef-TV subscriptions. We kno
 - The first and only line of each test case contains two integers ```N``` and ```X``` - the size of the group of friends and the cost of one subscription.
 
 ### Output Format
-or each test case, output the minimum total cost that the group will incur so that everyone in the group is able to use Chef-TV.
+For each test case, output the minimum total cost that the group will incur so that everyone in the group is able to use Chef-TV.
 
 ### Constraints
 - 1 ≤ T ≤ 1000
