@@ -1,6 +1,6 @@
 # CodeChef Questions & Solutions
 
-## 1. Subscriptions
+## 4. Minimum Cars
 ### Problem Statement
 A new TV streaming service was recently started in Chefland called the Chef-TV.
 
