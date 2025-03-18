@@ -1,25 +1,19 @@
 # CodeChef Questions & Solutions
 
-## 4. Minimum Cars
+## 4. Minimum Cars required
 ### Problem Statement
-A new TV streaming service was recently started in Chefland called the Chef-TV.
-
-A group of ```N``` friends in Chefland want to buy Chef-TV subscriptions. We know that
-```6``` people can share one Chef-TV subscription. Also, the cost of one Chef-TV subscription is
-```X``` rupees. Determine the minimum total cost that the group of
-```N``` friends will incur so that everyone in the group is able to use Chef-TV.
+A single car can accommodate at most 4 people. ```N``` friends want to go to a restaurant for a party. Find the <strong>minimum</strong> number of cars required to accommodate all the friends.
 
 ### Input Format
 - The first line contains a single integer ```T``` — the number of test cases. Then the test cases follow.
-- The first and only line of each test case contains two integers ```N``` and ```X``` - the size of the group of friends and the cost of one subscription.
+- The first and only line of each test case contains an integers ```N``` - denoting the number of friends.
 
 ### Output Format
-or each test case, output the minimum total cost that the group will incur so that everyone in the group is able to use Chef-TV.
+For each test case, output the minimum number of cars required to accommodate all the friends.
 
 ### Constraints
 - 1 ≤ T ≤ 1000
-- 1 ≤ X ≤ 100
-- 1 ≤ Y ≤ 1000
+- 2 ≤ N ≤ 1000
 
 ### [Solution](./MinimumCars.java)
 
@@ -27,16 +21,18 @@ or each test case, output the minimum total cost that the group will incur so th
 ### Example
 #### Input
 ```yaml
-3
-1 100
-12 250
-16 135
+4
+4
+2
+7
+98
 ```
 #### Output
 ```objectivec
-100
-500
-405
+1
+1
+2
+25
 ```
 
 
