@@ -21,7 +21,7 @@ or each test case, output the minimum total cost that the group will incur so th
 - 1 ≤ X ≤ 100
 - 1 ≤ Y ≤ 1000
 
-### [Solution](./Subscriptions.java)
+### [Solution](./MinimumCars.java)
 
 
 ### Example
