@@ -1,6 +1,6 @@
 # CodeChef Questions & Solutions
 
-## 4. Minimum Cars required
+## 5. Minimum Cars required
 ### Problem Statement
 A single car can accommodate at most 4 people. ```N``` friends want to go to a restaurant for a party. Find the <strong>minimum</strong> number of cars required to accommodate all the friends.
 
