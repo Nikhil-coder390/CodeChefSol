@@ -14,7 +14,7 @@ Here, I will be solving CodeChef problems daily and documenting my progress.
 | 5 | Minimum Cars required    | [Solution](<Solutions/Difficulty 608/READme.md>) |
 | 6 | Mario and Bullet         | [Solution](<Solutions/Difficulty 650/READme.md>) |
 | 7 | Chef in his Office       | [Solution](<Solutions/Difficulty 532/READme.md>) |
-| 8 | Mahasena                 | [Solution](<Solutions/Difficulty 533/READme.md>) 
+| 8 | Mahasena                 | [Solution](<Solutions/Difficulty 533/READme.md>) |
 | 9 | CRED Coins               | [Solution](<Solutions/Difficulty 539/READme.md>) |
 
 ## How This Works
