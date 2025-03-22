@@ -18,6 +18,8 @@ Here, I will be solving CodeChef problems daily and documenting my progress.
 | 9  | CRED Coins               | [Solution](<Solutions/Difficulty 539/READme.md>) |
 | 10 | Water Filling            | [Solution](<Solutions/Difficulty 541/READme.md>) |
 | 11 | Sale Season              | [Solution](<Solutions/Difficulty 541/READme.md>) |
+| 12 | Minimum Pizzas           | [Solution](<Solutions/Difficulty 546/READme.md>) |
+
 
 ## How This Works
 - Each problem I solve will be added to the `Solutions` directory with a detailed explanation and solution.
