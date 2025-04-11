@@ -1,6 +1,7 @@
 # CodeChef Daily Challenges
 
 Welcome to my CodeChef daily practice repository! 🚀 
+
 Here, I will be solving CodeChef problems daily and documenting my progress.
 
 ## Solved Problems
